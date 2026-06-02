@@ -1,0 +1,18 @@
+{
+  "project_name": "IntelliCheck AI",
+  "project_type": "IBM watsonx Orchestrate Agent",
+  "agent_name": "Assignment Integrity Agent",
+  "description": "AI-powered academic integrity assistant for plagiarism detection, AI-generated content assessment, similarity analysis, and misconduct risk evaluation.",
+  "technology": [
+    "IBM watsonx Orchestrate",
+    "IBM Cloud Lite",
+    "GPT-OSS 120B"
+  ],
+  "features": [
+    "Writing Quality Analysis",
+    "AI Content Assessment",
+    "Similarity Analysis",
+    "Risk Classification",
+    "Faculty Recommendations"
+  ]
+}

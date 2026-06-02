@@ -74,6 +74,8 @@ IntelliCheck AI is an AI-powered academic integrity assistant built using IBM wa
 <img width="1919" height="911" alt="Screenshot 2026-06-02 143138" src="https://github.com/user-attachments/assets/d7de6c17-1f96-404c-8562-b754482dadfb" />
 
 
+### 4. Streamlit Web Application Home Page
+
 
 ---
 
